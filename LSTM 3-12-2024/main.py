@@ -10,7 +10,7 @@ MIDI_FOLDER = 'data/'
 ###TO TRAIN###
 NUM_EPOCHS=1000
 BATCH_SIZE=64
-SAVE_PATH= 'music_model_1.pth'
+SAVE_PATH= 'music_model.pth'
 HIDDEN_SIZE =256
 NUM_LAYERS=2
 DROPOUT =0.2
