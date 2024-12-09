@@ -1,0 +1,17 @@
+Model Summary:
+------------------------------------------------------------
+Architecture Components:
+1. Input Size: 88
+2. LSTM Layer:
+   - Hidden Size: 512
+   - Number of Layers: 4
+   - Dropout: 0.2
+3. Dropout Layer: 0.2
+4. Fully Connected Layer:
+   - Input Features: 512
+   - Output Features: 88
+5. Output Activation: Sigmoid
+
+Parameter Information:
+Total Parameters: 7,581,784
+Trainable Parameters: 7,581,784
